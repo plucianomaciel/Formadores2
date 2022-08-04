@@ -1,8 +1,8 @@
 h1, h3{text-align: center;}
-body{background-color:lightblue;}
+body{background-color:#B09DFA;}
 h1{font-size: 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: darkmagenta;color: darkgreen;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    ;color: #000;
 }
 h3{font-size: 25;font-family: Verdana, Geneva, Tahoma, sans-serif;}
-p{background-color: rgb(206, 206, 206);font-size: 25px;}
+p{font-size: 25px;}
