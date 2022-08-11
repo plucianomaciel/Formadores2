@@ -1,15 +1,40 @@
-h1, h3{text-align: center;}
+h1, h3{
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(184, 8, 169)
+}
+
 body{
-    background-image:url(bailarina.png);
-    background-color: rgba(255, 0, 170, 0.212);
-    background-repeat: no-repeat;
-    background-size: 20%;
-    background-position: center;
+    background-color:#000;
 }
-.areaPrincipal{}
-h1{font-size: 50px;
+
+h1{
+    color: white;
+    font-size: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    ;color: #000;
+    color: rgb(255, 255, 255);
 }
-h3{font-size: 25;font-family: Verdana, Geneva, Tahoma, sans-serif;}
-p{font-size: 25px;}
+
+h3{
+    color: white;
+    font-size: 25;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+}
+
+#Capa{
+    width: 100%;
+    height: 250px;
+}
+#form{
+    align-self: center;
+}
+
+#dil{
+    text-align: center;
+}
+
