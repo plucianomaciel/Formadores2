@@ -1,40 +1,63 @@
-h1, h3{
-    color: white;
-    text-align: center;
-    border: 2px solid rgb(184, 8, 169)
+h2 {
+    color: rgb(206, 67, 67);
+    text-align: left;
 }
 
-body{
-    background-color:#000;
+body {
+    background-color: #000;
 }
 
-h1{
+h1 {
     color: white;
     font-size: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(255, 255, 255);
+    text-align: center;
+
 }
 
-h3{
+h3 {
     color: white;
     font-size: 25;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
-p{
+p {
     color: white;
     font-size: 25px;
+
 }
 
-#Capa{
+#Capa {
     width: 100%;
     height: 250px;
-}
-#form{
-    align-self: center;
-}
-
-#dil{
     text-align: center;
 }
 
+#form {
+    text-align: center;
+}
+
+#dil {
+    text-align: center;
+}
+
+UL {
+    text-align: left;
+    font-family: cousive;
+    color: rgb(255, 255, 255);
+}
+
+li::marker {
+    color: red;
+    font-size: 30px;
+    margin-left: 50px;
+    font-family: comic;
+    content: "\1F846";
+}
+
+.cabecalho {
+    border: 15px double rgb(255, 255, 255);
+
+}
